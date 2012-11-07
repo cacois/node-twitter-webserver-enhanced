@@ -14,3 +14,5 @@ This project features:
 * User selection of Twitter feed to display
 * Registration of Twitter profiles
 * Custom user pages, with custom URLs, for registered profiles
+
+[![Codehenge](http://codehenge.net/blog/wp-content/uploads/2012/09/xcodehenge-header.png.pagespeed.ic.M0gRSolIa5.png)](http://www.codehenge.net)
